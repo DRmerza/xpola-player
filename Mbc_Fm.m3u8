@@ -1,0 +1,11 @@
+#EXTM3U
+#EXT-X-STREAM-INF:BANDWIDTH=8000000,RESOLUTION=3840x2160
+https://mbcfm-riyadh-prod-dub-enc.edgenextcdn.net/out/v1/69c8a03f507e422f99cf5c07291c9e3a/index_1.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=4500000,RESOLUTION=1920x1080
+https://mbcfm-riyadh-prod-dub-enc.edgenextcdn.net/out/v1/69c8a03f507e422f99cf5c07291c9e3a/index_2.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=2500000,RESOLUTION=1280x720
+https://mbcfm-riyadh-prod-dub-enc.edgenextcdn.net/out/v1/69c8a03f507e422f99cf5c07291c9e3a/index_3.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=800000,RESOLUTION=854x480
+https://mbcfm-riyadh-prod-dub-enc.edgenextcdn.net/out/v1/69c8a03f507e422f99cf5c07291c9e3a/index_4.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=200000,RESOLUTION=426x240
+https://mbcfm-riyadh-prod-dub-enc.edgenextcdn.net/out/v1/69c8a03f507e422f99cf5c07291c9e3a/index_5.m3u8
